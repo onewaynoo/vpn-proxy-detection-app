@@ -1,0 +1,14 @@
+{
+  "name": "pv_detector",
+  "version": "1.0.0",
+  "description": "This web app is useful in detecting vpn and proxy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HU-LA-LA-LA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
